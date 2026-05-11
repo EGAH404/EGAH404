@@ -1,7 +1,6 @@
 <h1 align="center">Your king’s name is EGAH404</h1>
 <h3 align="center">Professional bug creator</h3>
 
-- 📫 How to reach me **fabienhage@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
